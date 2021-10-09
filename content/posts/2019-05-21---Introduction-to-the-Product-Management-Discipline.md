@@ -1,37 +1,31 @@
 ---
 title: Introduction to the Product Management Discipline
-date: "2019-05-21T23:46:37.121Z"
+date: "2019-05-21T20:46:37.121Z"
 template: "post"
 draft: false
 slug: "introduction-to-the-product-management-discipline"
 category: "Product Management"
 tags:
   - "Product Management"
-description: ""
+description: "A self-exploration of product managmenet."
 socialImage: "/media/Discipline.jpeg"
 ---
 
-The following write-up is the first-ever published online.
+The following write-up is the first-ever published online. At the time, I was unemployed, recently relocated to a new country, and was trying to summarize key takeaways from two years of working as a PM. While I don’t agree with most of the below anymore, some still hold for me. 
 
-At the time, I was unemployed, recently relocated to a new country, and was trying to summarize key takeaways from two years of working as a PM. While I don’t agree with most of the below anymore, some still hold for me. 
-
-It was initially published in a small subreddit, [r/productmanagment](https://www.reddit.com/r/ProductManagement/), and some time after publishing I shared it on [Medium](https://medium.com/@A-Gurbaz/intro-pm-discipline-7f2ab088013f).
-
-_I only made minor editorial changes for typos, spelling, and grammar before reposting here._
+It was initially published in a small subreddit, [r/productmanagment](https://www.reddit.com/r/ProductManagement/), and some time after publishing I shared it on [Medium](https://medium.com/@A-Gurbaz/intro-pm-discipline-7f2ab088013f). _I only made minor editorial changes for typos, spelling, and grammar before reposting here._
 
 ---
 
 In recent months, as part of my job hunt, I was sharpening my product thinking. To do that, I decided to read many materials online. While searching for good resources to read, I noticed that most articles focus on the job itself. For example, interview and hiring tips, best tools and frameworks, how to succeed as a PM, and the list goes on.
 
-I found only a handful of articles about the discipline of product management. So I decided to write something of my own.
-
-In this post, I’ll give an overview of what I understand as the product management discipline. And describe how PMs are practicing it in their day-to-day.
+I found only a handful of articles about the discipline of product management. So I decided to write something of my own. In this post, I’ll give an overview of what I understand as the product management discipline. And describe how PMs are practicing it in their day-to-day.
 
 ![Discipline, Photo by Thao Le Hoang on Unsplash](/media/Discipline.jpeg)
 Photo by [Thao Le Hoang](https://unsplash.com/@h4x0r3) on [Unsplash](https://unsplash.com/)
 
-# Owning Market Opportunities
-> A market opportunity is a situation in which consumers need (or want) a product, service, etc., yet it is not supplied.
+# The Job is Owning Market Opportunities
+> "A market opportunity is a situation in which consumers need (or want) a product, service, etc., yet it is not supplied."
 
 Supplying this need will increase the value of a product. This increased value then translates to an increase in the supplier’s revenue. As I see it, modern product management is the art of owning these opportunities for a company. 
 

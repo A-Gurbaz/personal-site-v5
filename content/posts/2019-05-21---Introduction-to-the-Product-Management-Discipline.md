@@ -60,10 +60,10 @@ Product Managers are responsible for the project’s result and success. Yet, th
 - Etc.
 
 Their work doesn’t stop after the solution is deployed. PMs will use KPIs to determine if the project had any success and to confirm their hypothesis. Some examples:
+
 - Top-line Metric — did the solution had any effect on the most important metric? Is it a positive effect?
 - Adoption — do users work with this solution? Who are these users?
 - Growth — is there an increase in user acquisition? Can you attribute this increase to your solution? How?
-
 Answering these questions allows PMs to provide data back to their team. This initiates an iterative process of improving the solution. And, at times, even drive a decision to deprecate it.
 
 ---

@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Yoav Morami',
     photo: '/photo.jpg',
-    bio: 'Product Manager, Consultant, Payments Specialist... I help organizations understand and navigate the online payments domain, optimize and scale their billing system efficiently.',
+    bio: 'Product Manager, Consultant, Payments Specialist.',
     contacts: {
       email: 'yoav88@gmail.com',
       facebook: '',

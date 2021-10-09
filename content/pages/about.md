@@ -1,13 +1,19 @@
 ---
-title: "About me"
+title: "About"
 template: "page"
-socialImage: "/media/image-2.jpg"
+socialImage: ""
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+👋 Hi, I’m Yoav. 
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+🛫 Based in Tel-Aviv. Previously lived / worked in NYC. Visited Canada, Colombia, Costa Rica, Egypt, England, Germany, Guatemala, Hungary, Italy, India, Mexico, Netherlands, Nicaragua, Panama, Poland, Spain, Turkey and United States.
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+👨‍💻 Works as a payments nerd at [Melio](https://www.meliopayments.com). From time to time advise tech companies how to navigate the online payments domain, and optimize and scale their billing systems efficiently.
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+👍 Likes tech, coffee, books, football, yoga, cooking. Thrive when I’m building things from scratch. Enjoys forming relationships with people. Inquisitive person that loves deep-diving into complex concepts and becoming a subject-matter expert.
+
+💅 Maker of [Polishapp](https://polish.launchaco.com/), a niffty tool for web-writers. It turns your browser into a powerful type-writing machine. Edit text on _any_ webpage, test and iterate until you get it just right, and share your words for feeback.
+
+💭 Opinions expressed here are my own and do not express the views or opinions of my employer.
+
+This website runs on [GatsbyJS](https://www.gatsbyjs.com/). I use the [starter-lumen template](https://www.gatsbyjs.com/starters/alxshelepenok/gatsby-starter-lumen/).

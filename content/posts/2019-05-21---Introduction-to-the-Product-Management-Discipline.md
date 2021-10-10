@@ -7,13 +7,15 @@ slug: "introduction-to-the-product-management-discipline"
 category: "Product Management"
 tags:
   - "Product Management"
-description: "The following write-up is the first-ever I published online. At the time, I was unemployed, recently relocated to a new country, and was trying to reflect on the few years years I worked as a Product Manager and think through whether I walk this path as a career."
+description: "The following write-up is the first-ever I published online. At the time, I was unemployed, recently relocated to a new country, and was trying to reflect on the last few years I worked in product. In hindsight, this was a self-exploration of whether I want to continue this path as a career."
 socialImage: "/media/Discipline.jpeg"
 ---
 
-The following write-up is the first-ever I published online. At the time, I was unemployed, recently relocated to a new country, and was trying to reflect on the few years years I worked as a Product Manager and think through whether I walk this path as a career. While I don’t agree with most of the below anymore, some still hold for me. 
+The following write-up is the first-ever I published online. At the time, I was unemployed, recently relocated to a new country, and was trying to reflect on the last few years I worked in product. In hindsight, this was a self-exploration of whether I want to continue this path as a career.
 
-It was initially published in a small subreddit, [r/productmanagment](https://www.reddit.com/r/ProductManagement/), and some time after publishing I shared it on [Medium](https://medium.com/@A-Gurbaz/intro-pm-discipline-7f2ab088013f). _I only made minor editorial changes for typos, spelling, and grammar before reposting here._
+It was initially published in a small subreddit, [r/productmanagment](https://www.reddit.com/r/ProductManagement/), and some time after publishing I shared it on [Medium](https://medium.com/@A-Gurbaz/intro-pm-discipline-7f2ab088013f). 
+
+While I don’t agree with most of the below anymore, some still hold for me.  _I only made minor editorial changes for typos, spelling, and grammar._
 
 ---
 

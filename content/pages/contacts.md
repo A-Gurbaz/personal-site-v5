@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 template: "page"
-socialImage: ""
+socialImage:
 ---
 
 Here I’ll list the ways I’m able to help.

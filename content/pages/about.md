@@ -1,7 +1,7 @@
 ---
 title: "About"
 template: "page"
-socialImage: ""
+socialImage:
 ---
 
 👋 Hi, I’m Yoav. 

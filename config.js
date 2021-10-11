@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://yoavmorami.com',
   pathPrefix: '/',
   title: 'Yoav\'s Corner',
-  subtitle: 'A place where I can blurb about anything',
+  subtitle: 'A place where I can blurb about anything.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,

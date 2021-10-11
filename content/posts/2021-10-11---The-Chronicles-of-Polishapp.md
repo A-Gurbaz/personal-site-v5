@@ -8,7 +8,7 @@ category: "Product Management"
 tags:
   - "Product Management"
   - "Polishapp"
-description: "Polishapp Journal... Currently empaty. But that's my next post!"
+description: "Polishapp Journal... Currently empty. But that's my next post!"
 socialImage: "/media/polishapp.png"
 ---
 

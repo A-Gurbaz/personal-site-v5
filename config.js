@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://yoavmorami.com',
   pathPrefix: '/',
   title: 'Yoav\'s Corner',
   subtitle: 'A place where I can blurb about anything',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: '',
+  googleAnalyticsId: 'G-Z1F3QZNMXJ',
   useKatex: false,
   menu: [
     {
@@ -33,7 +33,7 @@ module.exports = {
       facebook: '',
       telegram: '',
       twitter: 'A_Gurbaz',
-      github: 'A-gurbaz',
+      github: 'A-Gurbaz',
       rss: '',
       vkontakte: '',
       linkedin: 'yoav-morami',

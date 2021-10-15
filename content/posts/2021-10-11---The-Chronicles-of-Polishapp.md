@@ -24,7 +24,6 @@ A tool for the people who write the web. It turns your browser into a mean type-
 
 - **The long version:**
 A Chrome extension for UX writers, Content Designers, Product Marketers, and Content Marketers. Usually, these professionals don't have access to design tools like Figma, especially if they are external consultants. If they are assigned to re-word existing pages, they can rarely get an up-to-date version of that page in Figma. Their process is highly collaborative and includes working with professionals from other disciplines like Design, Engineering, Legal, etc. Their changes go through multiple rounds of approval. In many cases, they will receive feedback about how the new copy sits within the site layout.
-
 Polish makes this process easier by turning web pages to be editable. 
 When editing pages using Polish, you know you're working on the source of truth. Changes are immediately reflected in the site's layout. It allows sharing of your revisions with others and toggling between the original text and your text.
 It is handy because this method of work supports their creative process and trims down communication inefficiencies with design and engineering.
@@ -33,8 +32,10 @@ It is handy because this method of work supports their creative process and trim
 - Website: https://polish.launchaco.com/
 - Download to Chrome: https://chrome.google.com/webstore/detail/polish-rewrite-the-web/nlhnpmiknpimmdpjldadojameofboeja
 
-## Log (reverse chronological order)
-### Sun, April 18, 2021
+## Log
+This is the log of events, unfiltered, presented in reverse chronological order. Sometimes I'll add self-commentary.
+
+#### Sun, April 18, 2021
 - 10:11p-11:59p - Work work work.
 - 11:11p - Sharon shared the first version of Polish as a Chrome extension he made. I freak out because it actually happened... We built a working product in under 3 hours.
 ![Polish Zip](/media/polishzip.png)
@@ -51,6 +52,6 @@ It is handy because this method of work supports their creative process and trim
 - 8:52p-8:55p - I create a POC - which consists of the core capability of what would be later known as Polish - editing text on any web page. Courtesy of [this article](https://www.pagecloud.com/blog/how-to-edit-your-website).
 - 8:47p-8:52p - Chatting over Telegram to convince each other that this is actually a great idea.
 - 8:30p-8:47p - Both of us continue to reflect on this idea on our own.
-- 6:30p-8:30p - Sharon and I are hanging out at my place. We reflect on our time at WalkMe, how powerful the Chrome inspect tool and how difficult is the Product work without a dedicated designer. We also conceived the idea that "wrapping the inspect tool in a user-friendly UI" can be extremely useful to Product Designers/Managers/Engineers during this time.
+- 6:30p-8:30p - Sharon and I are hanging out at my place. We reflect on our time at WalkMe, how powerful the Chrome inspect tool and how difficult is the Product work without a dedicated designer. We start forming the conviction that "a user-friendly warpper around the dev tools" can be extremely useful to Product Designers/Managers/Engineers during this time.
 
 

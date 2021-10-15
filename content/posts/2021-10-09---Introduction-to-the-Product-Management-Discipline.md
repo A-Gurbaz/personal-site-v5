@@ -1,6 +1,6 @@
 ---
 title: Introduction to the Product Management Discipline
-date: "2019-05-21T20:46:37.121Z"
+date: "2021-10-09T20:46:37.121Z"
 template: "post"
 draft: false
 slug: "introduction-to-the-product-management-discipline"
@@ -13,7 +13,7 @@ socialImage: "/media/Discipline.jpeg"
 
 The following write-up is the first-ever I published online. At the time, I was unemployed, recently relocated to a new country, and was trying to reflect on the last few years I worked in product. In hindsight, this was a self-exploration of whether I want to continue this path as a career.
 
-It was initially published in a small subreddit, [r/productmanagment](https://www.reddit.com/r/ProductManagement/), and some time after publishing I shared it on [Medium](https://medium.com/@A-Gurbaz/intro-pm-discipline-7f2ab088013f). 
+It was initially published in a small subreddit in late 2018, [r/productmanagment](https://www.reddit.com/r/ProductManagement/), and some months after publishing I shared it on [Medium](https://medium.com/@A-Gurbaz/intro-pm-discipline-7f2ab088013f). 
 
 While I don’t agree with most of the below anymore, some still hold for me.  _I only made minor editorial changes for typos, spelling, and grammar._
 

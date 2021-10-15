@@ -35,6 +35,25 @@ It is handy because this method of work supports their creative process and trim
 ## Log
 This is the log of events, unfiltered, presented in reverse chronological order. Sometimes I'll add self-commentary.
 
+#### Tue, April 20, 2021
+- Continuing after midnight, we start to research the world of UX Writers. Trying to study if there are any tools for them today until we call it a night. 
+- We woke up to v1 of Polish being approved on the Chrome store, and we immediately sent for review our v2. 
+- At midday, I upload a post to a small subreddit of UX Writers.
+![Polish Reddit post](/media/polishredditpost.png)
+- By evening we get 6 upvotes and a few supportive comments.
+![Polish Reddit post responses](/media/polishredditpostresponses.jpeg)
+- After work we continue to iterate on the extension until ~3:00a, implementing a better element selector.
+
+#### Mon, April 19, 2021
+- I show Polish to a few people at work throughout the day and ask for feedback on the lender and the extension. Feedback is positive. Both of us are pumped, and most of the day, we discuss distribution and thinking about the target audience. At around 11:15p, we zone in on UX Writers as a potential target audience. We start a google doc with ideas and tasks around midnight. 
+- 2:00a - Good night! 😴
+- 1:21a-1:58a - Discussing distribution options.
+- 1:20a - I added a PayPal.Me link to the landing page for project donations.
+- 0:54a-1:19a - Sharon is working on fixing bugs with v1 of Polish. v2 is ready; I'm doing the QA.
+- 0:41a-0:54a - Searching for similar services as ours.
+- 0:40a - Polish was submitted for review on the Chrome store.
+- 0:00a-0:39a - Work work work.
+
 #### Sun, April 18, 2021
 - 10:11p-11:59p - Work work work.
 - 11:11p - Sharon shared the first version of Polish as a Chrome extension he made. I freak out because it actually happened... We built a working product in under 3 hours.

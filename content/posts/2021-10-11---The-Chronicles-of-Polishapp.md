@@ -14,7 +14,7 @@ description: "An ongoing log of the Polishapp journey."
 socialImage: "/media/polishapp.png"
 ---
 
-Hands-down [Polishapp](https://polish.launchaco.com/) is the single most exciting thing I've built. It is a project [Sharon Rubinstein](https://www.linkedin.com/in/sharon-rubinstein/), and I started back in April 2021 and growing ever since. This is a live journal where I'll be logging key milestones and learnings.
+Hands-down [Polishapp](https://polish.launchaco.com/) is the single most exciting thing I've built. It is a project [Sharon Rubinstein](https://www.linkedin.com/in/sharon-rubinstein/), and I started back in April 2021 and growing ever since. Since launch, we acquired 800 users predominantly through word-of-mount. Polish has been featured on multiple newsletters, and UX Writing sites and was shared by UX Writing professionals on Twitter and LinkedIn. This is a live journal where I'll be logging key milestones and learnings.
 
 ![Polishapp](/media/polishapp.png) Icon made by [Freepik](https://www.flaticon.com/authors/freepik) from [Flaticon.com](https://www.flaticon.com/)
 

@@ -35,6 +35,19 @@ It is handy because this method of work supports their creative process and trim
 ## Log
 This is the log of events, unfiltered, presented in reverse chronological order. Sometimes I'll add self-commentary.
 
+#### Thu, April 22, 2021
+- Polish is now on GitHub: https://github.com/basil88/polishapp/
+- We get initial analytics from the Chrome store (comes in in a two days delay). 6 Installs! 
+![Polish Chrome store installations](/media/polishChrome StoreInstallations.jpeg)
+
+#### Wed, April 21, 2021
+- We wake up to 20+ upvotes and some more positive reactions on Reddit. I'm getting DMs now too.
+- v2 approved. v3 is uploaded for review.
+- We are starting to work on v4 based on feedback from people at work, Reddit, and us playing around with the extension.
+- We narrow our target audience even further to Freelance UX Writers based on our research. We think our current offering will be best suited for them.
+- We decided to take a bit to invest in our internal communication systems and knowledge management. We create a separate Telegram group for Polish chatter.
+
+
 #### Tue, April 20, 2021
 - Continuing after midnight, we start to research the world of UX Writers. Trying to study if there are any tools for them today until we call it a night. 
 - We woke up to v1 of Polish being approved on the Chrome store, and we immediately sent for review our v2. 
@@ -42,7 +55,7 @@ This is the log of events, unfiltered, presented in reverse chronological order.
 ![Polish Reddit post](/media/polishredditpost.png)
 - By evening we get 6 upvotes and a few supportive comments.
 ![Polish Reddit post responses](/media/polishredditpostresponses.jpeg)
-- After work we continue to iterate on the extension until ~3:00a, implementing a better element selector.
+- After work we continue to iterate on the extension until ~3:00a the next day, implementing a better element selector.
 
 #### Mon, April 19, 2021
 - I show Polish to a few people at work throughout the day and ask for feedback on the lender and the extension. Feedback is positive. Both of us are pumped, and most of the day, we discuss distribution and thinking about the target audience. At around 11:15p, we zone in on UX Writers as a potential target audience. We start a google doc with ideas and tasks around midnight. 

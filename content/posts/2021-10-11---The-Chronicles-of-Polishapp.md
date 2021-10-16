@@ -35,6 +35,33 @@ It is handy because this method of work supports their creative process and trim
 ## Log
 This is the log of events, unfiltered, presented in reverse chronological order. Sometimes I'll add self-commentary.
 
+### Fri, April 30, 2021
+- Analytics update: we have 22 users.
+
+### Wed, April 28, 2021
+- Start working on internal communication systems and knowledge management.
+  - A dedicated Telegram group was created.
+  - We set up a Notion workspace.
+  - We log all the work we've been doing. Then we divide domains between the two of us.
+
+### Mon, April 26, 2021
+- Sharon and I decided we take a couple days off on Wed-Thu from work to fully dedicate them to Polish.
+
+### Sun, April 25, 2021
+- v5 is uploaded to the store for review.
+- Feeling discouraged because we found out about Google's [VisBug](https://visbug.web.app/).
+- Encouragement is on the rise again once we understand VisBug is targeting Front-End Engineers mainly.
+- More research about Polish's target audience. Lander is being updated accordingly.
+![Titles for writers in tech](/media/titlesForWritersInTech.jpeg)
+
+### Sat, April 24, 2021
+- Added our first testimonial to the site.
+![Polish first testimonial](/media/polishFirstTestimonial.jpeg)
+
+### Fri, April 23, 2021
+- My Reddit post is now #6 in Top posts of all time in that niche subreddit.
+
+
 #### Thu, April 22, 2021
 - Polish is now on GitHub: https://github.com/basil88/polishapp/
 - We get initial analytics from the Chrome store (comes in in a two days delay). 6 Installs! 

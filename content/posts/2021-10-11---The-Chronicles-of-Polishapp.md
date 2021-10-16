@@ -10,7 +10,7 @@ tags:
   - "Marketing"
   - "Product Management"
   - "Polishapp"
-description: "An ongoing log of the Polishapp journey."
+description: "Polish is one of the most exciting things I've built. This post is a live journal where I'll be logging key milestones and learnings."
 socialImage: "/media/polishapp.png"
 ---
 

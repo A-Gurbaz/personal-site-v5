@@ -7,7 +7,6 @@ slug: "the-chronicles-of-polishapp"
 category: "Entrepreneurship"
 tags:
   - "Entrepreneurship"
-  - "Marketing"
   - "Product Management"
   - "Polishapp"
 description: "Polish is one of the most exciting things I've built. This post is a live journal where I'll be logging key milestones and learnings."

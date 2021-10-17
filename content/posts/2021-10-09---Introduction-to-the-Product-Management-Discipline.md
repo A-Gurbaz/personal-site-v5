@@ -7,11 +7,11 @@ slug: "introduction-to-the-product-management-discipline"
 category: "Product Management"
 tags:
   - "Product Management"
-description: "The following write-up is the first-ever I published online. At the time, I was unemployed, recently relocated to a new country, and was trying to reflect on the last few years I worked in product. In hindsight, this was a self-exploration of whether I want to continue this path as a career."
+description: "The following write-up is the first-ever I published online. At the time, I was unemployed after a bad startup experience as the first product hire and recently relocated to a new country. While searching for my next role, I reflected on my time as a Product Manager. In hindsight, this was a self-exploration of whether I want to continue this path as a career."
 socialImage: "/media/Discipline.jpeg"
 ---
 
-The following write-up is the first-ever I published online. At the time, I was unemployed, recently relocated to a new country, and was trying to reflect on the last few years I worked in product. In hindsight, this was a self-exploration of whether I want to continue this path as a career.
+The following write-up is the first-ever I published online. At the time, I was unemployed after a bad startup experience as the first product hire and recently relocated to a new country. While searching for my next role, I reflected on my time as a Product Manager. In hindsight, this was a self-exploration of whether I want to continue this path as a career.
 
 It was initially published in a small subreddit in late 2018, [r/productmanagment](https://www.reddit.com/r/ProductManagement/), and some months after publishing I shared it on [Medium](https://medium.com/@A-Gurbaz/intro-pm-discipline-7f2ab088013f). 
 

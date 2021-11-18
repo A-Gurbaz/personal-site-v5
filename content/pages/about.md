@@ -8,7 +8,7 @@ socialImage:
 
 🛫 I’m based in Tel-Aviv. I previously lived/worked in NYC and visited Canada, Colombia, Costa Rica, Egypt, England, Germany, Guatemala, Hungary, Italy, India, Mexico, Netherlands, Nicaragua, Panama, Poland, Spain, Turkey, and United States.
 
-👨‍💻 I work as a payments nerd at [Melio](https://www.meliopayments.com). I’m in tech since 2012, previously worked for [Britannica Knowledge Systems](https://www.britannica-ks.com/), [WalkMe](https://www.walkme.com/), [CinchWallet](https://shopcinchwalletin.com/) and [Skillshare](https://www.skillshare.com). From time to time, I advise tech companies how to optimize and scale their billing systems efficiently.
+👨‍💻 I work as a payments nerd at [Melio](https://www.meliopayments.com). I’m in tech since 2012, previously worked for [Britannica Knowledge Systems](https://www.britannica-ks.com/), [WalkMe](https://www.walkme.com/), [CinchWallet](https://shopin.nyc/) and [Skillshare](https://www.skillshare.com). From time to time, I advise tech companies how to optimize and scale their billing systems efficiently.
 
 👍 I like tech, coffee, books, football, yoga, and cooking. I thrive when I’m building things from scratch. I enjoy forming relationships with people. I’m a curious person that loves deep-diving into complex concepts and becoming a subject-matter expert.
 

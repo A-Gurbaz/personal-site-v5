@@ -13,7 +13,7 @@ description: "Polish is one of the most exciting things I've built. This post is
 socialImage: "/media/polishapp.png"
 ---
 
-Hands-down [Polishapp](https://polish.launchaco.com/) is one of the most exciting things I've built. It is a project [Sharon Rubinstein](https://www.linkedin.com/in/sharon-rubinstein/), and I started back in April 2021 and growing ever since. Since its launch, we have acquired 800 users predominantly through word-of-mount. It was featured on multiple newsletters and UX Writing sites. It was shared by UX Writing professionals on Twitter and LinkedIn. This is a live journal where I'll be logging key milestones and learnings.
+Hands-down [Polishapp](https://polish.launchaco.com/) is one of the most exciting things I've built. It is a project [Sharon Rubinstein](https://www.linkedin.com/in/sharon-rubinstein/), and I started back in April 2021. Since its launch, we have acquired 1000 users predominantly through community and word-of-mount. It was featured on multiple newsletters and UX Writing sites. It was shared by UX Writing professionals on Twitter and LinkedIn. On Jan 2022 Polishapp was [microacquired](https://microacquire.com/). This is a journal logging the key milestones and learnings.
 
 ![Polishapp](/media/polishapp.png) Icon made by [Freepik](https://www.flaticon.com/authors/freepik) from [Flaticon.com](https://www.flaticon.com/)
 
@@ -34,6 +34,65 @@ It is handy because this method of work supports their creative process and trim
 ## Log
 This is the log of events, unfiltered, presented in reverse chronological order. Sometimes I'll add self-commentary.
 
+### June 8-14 2021
+- The word is spreading. We're getting feedback from community members, and shoutouts over LinkedIn.
+![feedback3](/media/feedback3.png)
+
+### June 1-7 2021
+- Shipped many features including the new version of the panel and analytics events.
+- Traffic to our landing page has been on the lower end.
+
+### May 24-30 2021
+- Over the past week:
+  - Polish was shared therough a design channel on Telegram.
+  - Listed in a couple of small newsletters, and
+  - Got a spotlight in [spackyboy.com](https://speckyboy.com/weekly-news-for-designers-594/)
+- We've now hit the 300 users mark.
+
+### Sun, May 23 2021
+- In the past three days we were super-energized.
+- We've reached +130 upvotes with the help of friends and family.
+- We've hit the #1 Trending Chrome Extention chart for the entire weekend.
+- And got around 200 downloads from all around the world.
+- I've started working on a new interface for our floateing panel.
+![Polishapp Ternding](/media/polishapptredning.png)
+
+### Thu, May 20 2021
+- Our landing page is getting unusual traffic.
+- We've figured out Polish was posted on [ProductHunt](https://www.producthunt.com/posts/polish).
+
+### Tue, May 18 2021
+- Our first success story.
+![Success story](/media/successstory.png)
+- I was approved to join a major Slack community of UX writers.
+- I published a short post celebrating Polish.
+
+### Mon, May 10 2021
+- Shipped the initial version of the floating menu.
+- I'm now a (minor) contributer to the codebase.
+
+### Sat, May 8 2021
+- Analytics update: 40 new users joined in yesterday.
+- We've figured out after a long (long!) research Polished was briefly mentioned in a Webinar about UX writing.
+- I've published the first [tweet of Polishapp](https://twitter.com/Polishapp1/status/1391051130394890240) in an attepmt to acquire more users.
+
+### Wed, May 5 2021
+- Getting some feedback from colleagues 😍
+![Feedback1](/media/feedback1.jpeg)
+![Feedback2](/media/feedback2.png)
+
+### Sun, May 2 2021
+- I've compiled a backlog of ideas.
+- Shipped two minor features: 
+  - **(a)** charachter count.
+  - **(b)** HTML elements.
+- I've decided that I need to start coding to assist with small coding tasks.
+
+### Sat, May 1, 2021
+- Shipped some UI updates
+- There's a general feeling we're on to something.
+- A goal was set: 1k users paying $5 each.
+
 ### Fri, April 30, 2021
 - Analytics update: we have 22 users.
 
@@ -42,6 +101,8 @@ This is the log of events, unfiltered, presented in reverse chronological order.
   - A dedicated Telegram group was created.
   - We set up a Notion workspace.
   - We log all the work we've been doing. Then we divide domains between the two of us.
+- Found and requested to join to a UX writing on Slack.
+- Sent cold emails to UX writers in Israel to set up discovery calls.
 
 ### Mon, April 26, 2021
 - Sharon and I decided we take a couple days off on Wed-Thu from work to fully dedicate them to Polish.

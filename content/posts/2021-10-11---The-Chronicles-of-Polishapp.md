@@ -34,11 +34,21 @@ It is handy because this method of work supports their creative process and trim
 ## Log
 This is the log of events, unfiltered, presented in reverse chronological order. Sometimes I'll add self-commentary.
 
-### June 8-14 2021
+### June 21-30 2021
+- 
+
+
+### June 14-20 2021
+- Hitting 500 users mark.
+- Discovered many shoutouts over Twitter ([1](https://twitter.com/heidi_sb/status/1395369786020925442), [2](https://twitter.com/sophycolbert/status/1384810574916247552), [3](https://twitter.com/ContentDesignPH/status/1404381770645078016)).
+
+### June 7-13 2021
 - The word is spreading. We're getting feedback from community members, and shoutouts over LinkedIn.
 ![feedback3](/media/feedback3.png)
+- We've now reached to 400 usrs.
+- Continuing to talk to users and getting counter-intuitive feedback.
 
-### June 1-7 2021
+### June 1-6 2021
 - Shipped many features including the new version of the panel and analytics events.
 - Traffic to our landing page has been on the lower end.
 

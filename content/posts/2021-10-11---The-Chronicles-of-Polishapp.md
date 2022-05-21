@@ -94,7 +94,7 @@ This is the log of events, unfiltered and presented in reverse chronological ord
 - We've hit the #1 Trending Chrome Extention chart for the weekend.
 - And got around 200 downloads from all around the world.
 - I've started working on a new interface for our floating panel.
-![Polishapp Ternding](/media/polishapptredning.jpeg)
+![Polishapp Ternding](/media/polishapptrending.jpeg)
 
 ### Thu, May 20 2021
 - Our landing page is getting unusual traffic.

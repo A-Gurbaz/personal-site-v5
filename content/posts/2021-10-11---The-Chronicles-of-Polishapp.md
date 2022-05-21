@@ -34,9 +34,38 @@ It is handy because this method of work supports their creative process and trim
 ## Log
 This is the log of events, unfiltered, presented in reverse chronological order. Sometimes I'll add self-commentary.
 
-### June 21-30 2021
-- 
+## Feb 2022
+- This ecperience was much more than we could've hoped for when we sarted back in April of last year.
+- And more importantly than actually selling our own creation, we've learned a ton.
 
+## Jan 2022
+- 20-30 people showed some interest in Polish.
+- Been chatting with ~10 of them.
+- 5 were serious.
+- 3 gave me an offer.
+- We decided to sell to on of them. Went through DD process, signed legal docs, non-compete, etc. and recieved the funds.
+
+## Dec 2021
+- I decided to list Polishapp on Microacquire.
+
+## Aug-Nov 2021
+- Polish is streadily growing.
+- We're about to hit 1000 users.
+- We've realised that to fully execute our vision and what users needs; we'll need to hire a full time engineer.
+- This was a hard realization for us, since we don't have the financials to do that.
+
+### July 11-30 2021
+- We've shipped many changes and fixes to make the core functionality even more slik, and some other complementry feature per users' feedback.
+- Polish is contiuing to [spread online](https://prototypr.io/toolbox/polish-ux-writing-tool/) organically.
+
+### July 1-10 2021
+- Another major shoutout over [LinkedIn](https://www.linkedin.com/posts/jens-polomski_tooltipp-chrome-tools-activity-6818404643421376512-fpLG/).
+- Additional 200 users joined. We're almost at 800.
+- I'm updating our Chrome Store presence.
+
+### June 21-30 2021
+- Anayltics update: almost at 600 users.
+- 50 DAUs.
 
 ### June 14-20 2021
 - Hitting 500 users mark.

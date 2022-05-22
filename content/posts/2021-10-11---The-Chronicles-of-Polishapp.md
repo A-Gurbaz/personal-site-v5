@@ -15,7 +15,7 @@ socialImage: "/media/polishapp.png"
 
 Hands-down [Polishapp](https://polish.launchaco.com/) is one of the most exciting things I've built. It is a project [Sharon Rubinstein](https://www.linkedin.com/in/sharon-rubinstein/), and I started in April 2021. Since its launch, we have acquired 1000 users predominantly through community and word-of-mount. It was featured on multiple newsletters and UX Writing sites. It was shared by UX Writing professionals on Twitter and LinkedIn. In Jan 2022, Polishapp was [microacquired](https://microacquire.com/). This is a journal logging the key milestones and learnings.
 
-![Polishapp](/media/polishapp.png) Icon made by [Freepik](https://www.flaticon.com/authors/freepik) from [Flaticon.com](https://www.flaticon.com/)
+![Polishapp](/media/polishapp.png) Icon made by [Freepik](https://www.flaticon.com/authors/freepik) from [Flaticon.com](https://www.flaticon.com/).
 
 ## First, What is Polish?
 - **The short version:**
@@ -34,21 +34,21 @@ It is handy because this method of work supports their creative process and trim
 ## Log
 This is the log of events, unfiltered and presented in reverse chronological order. Sometimes I'll add self-commentary.
 
-## Feb 2022
+### Feb 2022
 - This experience was much more than we hoped for when we started back in April of last year.
 - And more importantly, than actually selling our own creation, we've learned a ton.
 
-## Jan 2022
+### Jan 2022
 - 20-30 people showed some interest in Polish.
 - I've been chatting with ~10 of them.
 - 5 were serious about buying.
 - 3 gave me an offer.
 - We decided to sell to one of them. Went through a due-diligence process, signed legal docs, non-compete, etc., and received the funds.
 
-## Dec 2021
+### Dec 2021
 - I decided to list Polishapp on Microacquire.
 
-## Aug-Nov 2021
+### Aug-Nov 2021
 - Polish is steadily growing.
 - We're about to hit 1000 users.
 - We've realized that to fully execute our vision and what users needs, we'll need to hire a full-time engineer.
@@ -85,7 +85,7 @@ This is the log of events, unfiltered and presented in reverse chronological ord
 - Over the past week:
   - Polish was shared through a design channel on Telegram.
   - Listed in a couple of small newsletters, and
-  - Got a spotlight in [spackyboy.com](https://speckyboy.com/weekly-news-for-designers-594/)
+  - Got a spotlight in [spackyboy.com](https://speckyboy.com/weekly-news-for-designers-594/).
 - We've now hit the 300 users mark.
 
 ### Sun, May 23 2021
@@ -94,7 +94,7 @@ This is the log of events, unfiltered and presented in reverse chronological ord
 - We've hit the #1 Trending Chrome Extention chart for the weekend.
 - And got around 200 downloads from all around the world.
 - I've started working on a new interface for our floating panel.
-![Polishapp Ternding](/media/polishapptrending.jpeg)
+![Polishapp Trending](/media/polishapptrending.jpeg)
 
 ### Thu, May 20 2021
 - Our landing page is getting unusual traffic.
